@@ -1,5 +1,5 @@
 # OBJETIVO
-Busco minha primeira oportunidade de trabalho na área de desenvolvimento.
+Desejo integrar uma equipe de desenvolvimento de software em uma empresa dinâmica, onde possa aplicar minhas habilidades em programação e desenvolvimento web para contribuir com projetos inovadores e de alta qualidade. Estou empenhada em colaborar com profissionais experientes para impulsionar a inovação.
 
 # CONHECIMENTOS
 - Lógica de Programação
