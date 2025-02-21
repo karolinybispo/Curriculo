@@ -7,6 +7,8 @@ Desejo integrar uma equipe de desenvolvimento de software em uma empresa dinâmi
 - Banco de Dados (SQL)
 - Java
 - Javascript
+- Vue.js
+- React.js
 - HTML, CSS
 - Git/GitHub
 
@@ -18,17 +20,15 @@ Desejo integrar uma equipe de desenvolvimento de software em uma empresa dinâmi
 - Disponibilidade em aprender novas ferramentas de trabalho
 
 # SOBRE MIM
-Estudante de Análise e Desenvolvimento de Sistemas. Iniciei meus estudos na área de tecnologia em 2022. Atualmente, estou na fase final do curso na UNINGÁ. A conclusão do curso intensifica minha vontade de ingressar no universo tech. Estou ansiosa para aplicar minhas habilidades técnicas e conhecimento prático em um ambiente profissional dinâmico, onde poderei aprender, evoluir, crescer e enfrentar desafios.
+Iniciei meus estudos na área em 2022, quando entrei no curso de Análise e Desenvolvimento de Sistemas, graças a Deus. Possuo experiência prática em desenvolvimento, tanto na parte de front-end quanto de back-end, utilizando frameworks, linguagens e outras ferramentas, como XAMPP. Desde então, busco melhorar aquilo que já sei e aprender novas tecnologias que vêm sendo lançadas. Possuo facilidade de aprendizado, boa comunicação e trabalho muito bem em equipe
 
 # FORMAÇÃO ACADÊMICA
 - **Curso:** Análise e Desenvolvimento de Sistemas
 - **Instituição:** Centro Universitário Ingá (UNINGÁ)
-- **Período:** Noturno | Quinto Semestre
 - **Data da Conclusão:** 12/2024
 
 # CONTATO
 - **Telefone:** (44) 99996-9074
 - **Email:** karol-bobio@hotmail.com
-- **Localização:** Maringá, Paraná
 
 
